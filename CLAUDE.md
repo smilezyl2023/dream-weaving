@@ -23,6 +23,7 @@ rsync -av --delete \
   --exclude='.gitignore' \
   --exclude='CLAUDE.md' \
   --exclude='README.md' \
+  --exclude='LICENSE' \
   --exclude='article.md' \
   --exclude='.DS_Store' \
   ./ ~/.claude/skills/dream-weaving/
