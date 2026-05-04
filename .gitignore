@@ -1,0 +1,16 @@
+# 本地草稿（技术社区宣传文章），不入版本控制
+article.md
+
+# macOS
+.DS_Store
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node（如未来 skill 自带工具脚本）
+node_modules/
+.env
+.env.local
